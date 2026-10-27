@@ -14,5 +14,5 @@
 - Black hat attackers
   > These attackers exploit weaknesses for malicious or unauthorized purposes, such as financial theft, stealing information, or disrupting systems
 #### Organized hackers 
-- organizations of cyber criminals, hacktivists, terrorists and state-sponsored hackers
+- Organizations of cyber criminals, hacktivists, terrorists and state-sponsored hackers
   > They're usually highly skilled and precise and may even provide cybercrime as a service to other criminals. Hacktivists make political statements to create awareness about issues that are important to them. State-sponsored attackers gather intelligence or commit sabotage on behalf of their government. 
