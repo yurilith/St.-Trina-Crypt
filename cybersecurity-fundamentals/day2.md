@@ -12,4 +12,4 @@
 - Gray hat attackers
   > Also look for vulnerabilities but without having permission and they usually do it to test their skills or even just for fun, in general their reasons may vary
 - Black hat attackers
-  > These ones look for weaknessess for their personal gain, financial theft or even political reasons basically any kind of malicious reason 
+  > These attackers exploit weaknesses for malicious or unauthorized purposes, such as financial theft, stealing information, or disrupting systems 
