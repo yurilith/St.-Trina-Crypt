@@ -4,7 +4,7 @@
 
 ### Types of attackers
 #### Amateurs 
-- script kiddies
+- Script kiddies
   > People that usually find ways to launch an attack by using tools or instructions found on the internet, but usually don't understand how they work
 #### Hackers
 - White hat attackers
