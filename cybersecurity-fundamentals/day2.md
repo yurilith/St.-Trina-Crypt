@@ -5,11 +5,11 @@
 ### Types of attackers
 #### Amateurs 
 - script kiddies
-  > People that usually find ways to launch an attack by using tools or instructions found on the internet, but usually don't understant how they work
+  > People that usually find ways to launch an attack by using tools or instructions found on the internet, but usually don't understand how they work
 #### Hackers
 - White hat attackers
-  > They're the ones that break into networks or computer systems in order to identify vulnerabilities so that the security system can be improved (done with permition and results reported back to the owner)
+  > They're the ones that break into networks or computer systems in order to identify vulnerabilities so that the security system can be improved (done with permission and results reported back to the owner)
 - Gray hat attackers
-  > Also look for vulnerabilities but without having permission and they usually only report if they feel like it, some may even share the exploits online to help attackers
+  > Also look for vulnerabilities but without having permission and they usually do it to test their skills or even just for fun, in general their reasons may vary
 - Black hat attackers
-  > The worst type, these ones look for weakness for their personal gain, finacial theft or even political ressons basically any kind of malitious reason 
+  > These ones look for weaknessess for their personal gain, financial theft or even political reasons basically any kind of malicious reason 
