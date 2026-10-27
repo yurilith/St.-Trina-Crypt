@@ -16,3 +16,27 @@
 #### Organized hackers 
 - Organizations of cyber criminals, hacktivists, terrorists and state-sponsored hackers
   > They're usually highly skilled and precise and may even provide cybercrime as a service to other criminals. Hacktivists make political statements to create awareness about issues that are important to them. State-sponsored attackers gather intelligence or commit sabotage on behalf of their government. 
+### Internal and external threats
+
+#### Internal threats
+
+> These are threats that come from inside an organization, usually from people that already have access to its systems or information
+
+* employees
+* contractors
+* former employees that still have access
+
+> These threats can be intentional, like stealing information, or accidental, like opening a phishing email or exposing sensitive data
+
+#### External threats
+
+> These are threats that come from outside an organization, usually from people or groups that don't have direct access to its systems
+
+* cybercriminals
+* hacktivists
+* state-sponsored attackers
+* script kiddies
+
+> They may try to steal information, damage systems or gain unauthorized access for different reasons
+
+> The main difference between internal and external threats is where the threat comes from. Internal threats can also happen by accident, so not every threat involves an intentional attack
